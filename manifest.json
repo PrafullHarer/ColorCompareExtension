@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Color Comparator",
+  "version": "1.0",
+  "description": "Pick and compare two colors from a webpage",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
