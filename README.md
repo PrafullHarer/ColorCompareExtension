@@ -72,3 +72,9 @@ GitHub: https://github.com/PrafullHarer/ColorCompareExtension
 
 Feel free to ⭐ star, fork, or contribute to this project!
 
+--------------------------------------------------------------------------------
+✉️ CONTACT
+--------------------------------------------------------------------------------
+
+Feel free to contact prafullharer@gmail.com
+
