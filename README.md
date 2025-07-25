@@ -46,13 +46,13 @@ To install locally via Chrome Developer Mode:
 📁 PROJECT STRUCTURE
 --------------------------------------------------------------------------------
 
-ColorCompareExtension/
-│
-├── popup.html       → Main extension popup interface
-├── popup.js         → JavaScript logic for color comparison
-├── style.css        → Styling for the popup UI
-├── manifest.json    → Chrome extension manifest file
-└── icons/           → Icon assets for the extension
+      ColorCompareExtension/
+      │
+      ├── popup.html       → Main extension popup interface
+      ├── popup.js         → JavaScript logic for color comparison
+      ├── style.css        → Styling for the popup UI
+      ├── manifest.json    → Chrome extension manifest file
+      └── icons/           → Icon assets for the extension
 
 --------------------------------------------------------------------------------
 🛠️ TECH STACK
