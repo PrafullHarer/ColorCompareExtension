@@ -13,8 +13,8 @@
 
 ---------------------------------------------------------------------------------------------
 ##📦 Installation
- Install Locally via Developer Mode
 
+ Install Locally via Developer Mode
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/PrafullHarer/ColorCompareExtension.git
@@ -24,12 +24,14 @@
 5. Select the folder where this repo is located
 -----------------------------------------------------------------------------------------------
 ##🚀 Usage
-Click on the ColorCompareExtension icon in your browser toolbar.
-Enter two color values in HEX (e.g. #ff5733) or RGB format (e.g. rgb(255, 87, 51)).
-See both colors displayed side-by-side for easy comparison.
-Optional: Save or copy color codes for your workflow.
+
+      Click on the ColorCompareExtension icon in your browser toolbar.
+      Enter two color values in HEX (e.g. #ff5733) or RGB format (e.g. rgb(255, 87, 51)).
+      See both colors displayed side-by-side for easy comparison.
+      Optional: Save or copy color codes for your workflow.
 ------------------------------------------------------------------------------------------------
 📁 Project Structure
+
 ColorCompareExtension/
 │
 ├── popup.html          # Main UI
@@ -39,10 +41,11 @@ ColorCompareExtension/
 └── icons/              # Extension icon assets
 -------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
-HTML5
-CSS3
-Vanilla JavaScript
-Chrome Extensions API
+
+    HTML5
+    CSS3
+    Vanilla JavaScript
+    Chrome Extensions API
 -------------------------------------------------------------------------------------------------
 🧑‍💻 Author
 Prafull Harer
