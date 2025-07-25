@@ -1,59 +1,74 @@
-# 🎨 Color Compare Extension for Chrome
+🎨 ColorCompareExtension - Chrome Extension
 
-**ColorCompareExtension** is a lightweight and intuitive Chrome extension that allows developers and designers to quickly compare two colors side by side. It provides a simple UI for inputting HEX or RGB values and gives instant visual feedback to help with color matching, accessibility, and design choices.
----
+ColorCompareExtension is a lightweight and intuitive Chrome extension that allows developers and designers 
+to quickly compare two colors side-by-side. It provides a simple interface for entering HEX or RGB values 
+and gives instant visual feedback, making it easier to make design decisions, match colors, or verify accessibility.
 
-## 🔧 Features##
+--------------------------------------------------------------------------------
+🔧 FEATURES
+--------------------------------------------------------------------------------
 
-- 🔍 Input and compare two color values (HEX or RGB)
-- 🎨 Real-time color preview with side-by-side display
-- 🧪 Auto-detects invalid or incomplete inputs
-- 💾 Saves last compared values for quick access
-- ⚙️ Clean and responsive popup UI
-- 🚀 Fast, offline, and privacy-friendly (no tracking)
+✔️ Compare two color values (HEX or RGB format)
+✔️ Real-time, side-by-side color preview
+✔️ Auto-detects and warns about invalid or incomplete inputs
+✔️ Remembers last compared color values
+✔️ Clean, responsive popup UI
+✔️ Fast, offline, and privacy-friendly — no tracking or data collection
 
----
+--------------------------------------------------------------------------------
+📦 INSTALLATION
+--------------------------------------------------------------------------------
 
-##📦 Installation##
+To install locally via Chrome Developer Mode:
 
- Install Locally via Developer Mode
 1. Clone or download this repository:
-   ```bash
    git clone https://github.com/PrafullHarer/ColorCompareExtension.git
-2. Open Chrome and navigate to chrome://extensions/
-3. Enable Developer mode (top-right corner)
-4. Click Load unpacked
-5. Select the folder where this repo is located
-   
----
 
-##🚀 Usage##
+2. Open Chrome and go to:
+   chrome://extensions/
 
-1. Click on the ColorCompareExtension icon in your browser toolbar.
-2. Enter two color values in HEX (e.g. #ff5733) or RGB format (e.g. rgb(255, 87, 51)).
-3. See both colors displayed side-by-side for easy comparison.
-4. Optional: Save or copy color codes for your workflow.
+3. Enable "Developer Mode" in the top-right corner.
 
----
+4. Click on "Load unpacked" and select the downloaded project folder.
 
-##📁 Project Structure##
+5. The extension should now appear in your browser toolbar.
+
+--------------------------------------------------------------------------------
+🚀 USAGE
+--------------------------------------------------------------------------------
+
+1. Click the ColorCompareExtension icon in your Chrome toolbar.
+2. Enter two color values using HEX (e.g., #ff5733) or RGB (e.g., rgb(255, 87, 51)).
+3. Instantly preview both colors side-by-side.
+4. Use the saved values or copy the codes for design/development purposes.
+
+--------------------------------------------------------------------------------
+📁 PROJECT STRUCTURE
+--------------------------------------------------------------------------------
 
 ColorCompareExtension/
 │
-├── popup.html          # Main UI
-├── popup.js            # Logic for color comparison
-├── style.css           # Styles for popup
-├── manifest.json       # Chrome extension config
-└── icons/              # Extension icon assets
--------------------------------------------------------------------------------------------------
-🛠️ Tech Stack
+├── popup.html       → Main extension popup interface
+├── popup.js         → JavaScript logic for color comparison
+├── style.css        → Styling for the popup UI
+├── manifest.json    → Chrome extension manifest file
+└── icons/           → Icon assets for the extension
 
-    HTML5
-    CSS3
-    Vanilla JavaScript
-    Chrome Extensions API
--------------------------------------------------------------------------------------------------
-🧑‍💻 Author
-Prafull Harer
-GitHub
-Feel free to fork, star ⭐, or contribute
+--------------------------------------------------------------------------------
+🛠️ TECH STACK
+--------------------------------------------------------------------------------
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Chrome Extensions API
+
+--------------------------------------------------------------------------------
+🧑‍💻 AUTHOR
+--------------------------------------------------------------------------------
+
+Prafull Harer  
+GitHub: https://github.com/PrafullHarer/ColorCompareExtension
+
+Feel free to ⭐ star, fork, or contribute to this project!
+
