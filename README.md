@@ -1,7 +1,7 @@
 # 🎨 Color Compare Extension for Chrome
 
 **ColorCompareExtension** is a lightweight and intuitive Chrome extension that allows developers and designers to quickly compare two colors side by side. It provides a simple UI for inputting HEX or RGB values and gives instant visual feedback to help with color matching, accessibility, and design choices.
---------------------------------------------------------------------------------------------
+---
 ## 🔧 Features
 
 - 🔍 Input and compare two color values (HEX or RGB)
